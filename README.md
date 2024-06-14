@@ -1,2 +1,2 @@
 # Dates.mjs
-A repository of Date-specific JavaScript functions in module form.
+A repository of Date-specific client-side JavaScript functions in module form.
